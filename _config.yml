@@ -4,7 +4,7 @@ email: hello@shannonmiwa.com
 description: > # this means to ignore newlines until "baseurl:"
   I'm doing a thingy, here. A lot of thingies. Reworking something crazy and trying out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://watchmego.shannonmiwa.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: shannpersand
 github_username:  shannpersand
 
